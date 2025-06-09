@@ -1,0 +1,13 @@
+
+baseURL = 'https://rondinell.github.io/'
+languageCode = 'pt-br'
+title = 'Quant Neural Programação'
+theme = 'PaperMod'
+paginate = 5
+
+[params]
+  author = "Rondinell"
+  description = "Blog sobre redes neurais, IA e programação aplicada"
+  ShowBreadCrumbs = true
+  ShowReadingTime = true
+  defaultTheme = "auto"
